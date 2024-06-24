@@ -1,0 +1,2 @@
+# COMET_GIT_DIRECTORY
+Comet 
